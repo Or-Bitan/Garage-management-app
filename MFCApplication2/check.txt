@@ -1,0 +1,1 @@
+model: name: type:car year:0 color: plate:1
